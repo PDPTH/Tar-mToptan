@@ -1,4 +1,4 @@
-# PROJE ADI
+# TarımToptan
 
 > **Not:** Bu bölüm proje adı ile güncellenmelidir.
 
@@ -8,16 +8,14 @@
 
 ![Ürün Tanıtım Görseli](Product.png)
 
-**Proje Tanımı:** 
-> Projenin ne iş yaptığını anlatan bir paragraflık tanıtım metni buraya yazılacaktır.
+**Proje Tanımı:**
+Tarım ürünleri satışı yapan e-ticaret sitemiz; nohut, pirinç, mercimek, bulgur gibi temel gıda ürünlerini müşterilerimize hızlı, kolay ve güvenilir bir şekilde ulaştırmak için tasarlanmıştır. Geniş ürün yelpazemiz sayesinde kullanıcılarımız ihtiyaç duydukları ürünleri tek bir platform üzerinden rahatça bulabilir, ürün detaylarını inceleyebilir ve güvenli ödeme adımlarıyla siparişlerini tamamlayabilirler. Kullanıcı dostu arayüzümüz, pratik kategori yapımız ve arama özelliğimiz sayesinde alışveriş süreci zahmetsiz hale gelir. Sipariş sonrası süreçte ise hızlı teslimat seçenekleri ve müşteri memnuniyetine önem veren hizmet anlayışımız ile kaliteli bir deneyim sunmayı hedefliyoruz. Tarım ürünlerinde uygun fiyat, güvenilir hizmet ve kolay alışverişi bir araya getirerek müşterilerimizin beklentilerini en üst seviyede karşılamayı amaçlıyoruz.
 
-**Örnek:** ASY isimli e-ticaret sitemiz, online alışveriş deneyimini kolay ve keyifli hale getirmek için tasarlandı. Geniş ürün yelpazemiz sayesinde müşterilerimize en iyi seçenekleri sunarken, kullanıcı dostu arayüzümüz ile de alışveriş yapmayı daha rahat hale getiriyoruz. Sitemizde yer alan ürünler, kaliteli ve güvenilir markaların en yeni ve trend ürünlerinden oluşuyor. Müşterilerimiz, aradıkları ürünleri hızlı ve kolay bir şekilde bulabilirken, aynı zamanda satın alma süreçlerinde de sorunsuz bir deneyim yaşayacaklar. Hızlı teslimat seçenekleri, güvenli ödeme sistemleri ve müşteri memnuniyetine önem veren satış sonrası hizmetlerimizle, ASY olarak müşterilerimizin beklentilerini en üst seviyede karşılamayı hedefliyoruz. Her zaman en iyi fiyatlarla, kaliteli ürünleri müşterilerimize sunmak için çalışıyoruz ve müşteri memnuniyeti bizim için her zaman önceliklidir. ASY e-ticaret sitemize hoş geldiniz, size hizmet vermek için sabırsızlanıyoruz.
-
-**Proje Kategorisi:** 
-> Projenin hangi alanda yapıldığını belirten bir kategori. Örnek: E-Ticaret, Sosyal Medya vb.
+**Proje Kategorisi:**
+E-Ticaret (Tarım Ürünleri Satışı)
 
 **Referans Uygulama:** 
-> [Örnek Referans Uygulama](https://example.com)
+> [Koçarlı Tarım ürünleri](https://kocarlitarimurunleri.com/)
 
 ---
 
