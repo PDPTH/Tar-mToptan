@@ -1,7 +1,7 @@
 **1.Ürün Ekleme**
 
-      API Metodu: POST /products
-      Açıklama: Üreticilerin veya yetkili kullanıcıların sisteme yeni bir ürün eklemesini sağlar. Ürün adı, açıklama, fiyat ve stok bilgileri girilerek ürün sisteme kaydedilir.
+--API Metodu: POST /products
+--Açıklama: Üreticilerin veya yetkili kullanıcıların sisteme yeni bir ürün eklemesini sağlar. Ürün adı, açıklama, fiyat ve stok bilgileri girilerek ürün sisteme kaydedilir.
 
 **2.Ürün Bilgilerini Güncelleme**
 
@@ -37,5 +37,6 @@ Açıklama: Bir ürünün stok miktarını güncellemeyi sağlar. Bu işlem gene
 API Metodu: POST /products/{productId}/reviews
 
 Açıklama: Kullanıcıların satın aldıkları ürünler hakkında değerlendirme yapmasını sağlar. Kullanıcılar puan verebilir ve yorum yazarak diğer kullanıcılara geri bildirim sağlayabilir.
+
 
 
