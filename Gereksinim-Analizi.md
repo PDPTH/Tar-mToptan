@@ -1,34 +1,26 @@
-# Gereksinim Analizi
-
-Tüm gereksinimlerinizi çıkardıktan sonra beraber tartışıyoruz ve son gereksinimlerin isimlerini hangi API metoduna karşılık geleceğini ve kısa açıklamalarını buraya numaralı bir şekilde yazıyorsunuz. Daha sonra aşağıya herkes kendi gereksinimiyle ilgili sayfayı oluşturmalı ve kendi sayfasında kendine ait gereksinimleri numaralı bir şekilde listeleyerek her bir gereksinimin açıklamalarını yazmalı. Toplamda grup üyesi sayısı kadar sayfa oluşturulmalı. Her grup üyesine eşit sayıda gereksinim atanmalı.
-
-## Gereksinim Sayıları (En Az)
-
-- **1 Kişi:** 10 gereksinim
-- **2 Kişi:** 16 gereksinim
-- **3 Kişi:** 21 gereksinim
-- **4 Kişi:** 24 gereksinim
-- **5 Kişi:** 30 gereksinim
-
-## Gereksinimlerde Uyulması Gereken Kurallar
-
-1. **İsimler anlamlı olmalı:** Gereksinim isimleri net ve anlaşılır olmalıdır.
-2. **Açıklamalar net olmalı:** Her gereksinimin açıklaması açık ve anlaşılır şekilde yazılmalıdır.
-3. **Açıklamalar teknik jargon ve kısaltmalar içermemeli:** Gereksinim açıklamaları herkesin anlayabileceği basit bir dille yazılmalıdır.
-4. **Gereksinim isimleri çok uzun olmamalı ve bir eylem bildirmeli:** 
-   - İsimler kısa ve öz olmalıdır
-   - Bir eylem fiili içermelidir
-   - Örnekler: "Kayıt Olma", "Giriş Yapma", "Profil Güncelleme", "Hesap Silme"
-
 # Tüm Gereksinimler 
 
-1. **Giriş Yapma** (Ali Tutar)
-   - **API Metodu:** `POST /auth/login`
-   - **Açıklama:** Kullanıcıların sisteme giriş yaparak hizmetlere erişmesini sağlar. Email adresi ve şifre ile kimlik doğrulama yapılır. Başarılı giriş sonrası kullanıcıya erişim izni verilir ve kişisel verilerin güvenliği sağlanır.
-
-2. **Üye Olma** (Ali Tutar)
-   - **API Metodu:** `POST /auth/register`
-   - **Açıklama:** Kullanıcıların yeni hesaplar oluşturarak sisteme kayıt olmasını sağlar. Kişisel bilgilerin toplanmasını ve hesap oluşturma işlemlerini içerir. Kullanıcılar email adresi ve şifre belirleyerek hesap oluşturur.
+1 Kayıt olma 
+2 Giriş yapma 
+3 Profil bilgilerini güncelleme 
+4 Hesabı silme 
+5 Üreticileri listeleme 
+6 Üretici detayını görüntüleme 
+7 Şifre sıfırlama talebi 
+8 Ürün ekleme 
+9 Ürün bilgilerini güncelleme 
+10 Ürün yayından kaldırma 
+11 Ürünleri listeleme 
+12 Ürün detayını görüntüleme 
+13 Ürün stok miktarını güncelleme 
+14 Ürün değerlendirmesi yapma 
+15 Sepete ürün ekleme 
+16 Sepetten ürün çıkarma 
+17 Sepeti görüntüleme 
+18 Sipariş oluşturma 
+19 Sipariş iptal etme 
+20 Teslimat adresi ekleme 
+21 Teslimat adresi güncelleme 
 
 # Gereksinim Dağılımları
 
