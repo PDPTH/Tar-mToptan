@@ -1,4 +1,4 @@
-Kayıt Olma
+**Kayıt Olma**
 
 API Metodu: POST /auth/register
 
@@ -39,3 +39,4 @@ Açıklama: Belirli bir üreticinin detaylı bilgilerini görüntülemeyi sağla
 API Metodu: POST /auth/reset-password-request
 
 Açıklama: Kullanıcıların şifrelerini unuttuklarında yeni bir şifre oluşturma talebi göndermelerini sağlar. Kullanıcı email adresini girerek şifre sıfırlama bağlantısı talep eder.
+
