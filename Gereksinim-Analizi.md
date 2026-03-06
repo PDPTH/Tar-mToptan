@@ -25,6 +25,6 @@
 
 # Gereksinim Dağılımları
 
-1. [Suleyman'in Gereksinimleri](Ali-Tutar/Ali-Tutar-Gereksinimler.md)
+1. [Suleyman'in Gereksinimleri](Suleyman-Bugra-Cetin/Suleyman-Gereksinimler.md)
 2. [Umut'un Gereksinimleri](umut-can-bayar/umut-can-bayar-Gereksinimler.md)
 3. [Aykan'in Gereksinimleri](Grup-Uyesi-3/Grup-Uyesi-3-Gereksinimler.md)
