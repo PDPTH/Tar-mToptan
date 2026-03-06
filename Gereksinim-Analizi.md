@@ -24,9 +24,6 @@
 
 # Gereksinim Dağılımları
 
-1. [Ali Tutar'ın Gereksinimleri](Ali-Tutar/Ali-Tutar-Gereksinimler.md)
-2. [Grup Üyesi 2'nin Gereksinimleri](Grup-Uyesi-2/Grup-Uyesi-2-Gereksinimler.md)
-3. [Grup Üyesi 3'ün Gereksinimleri](Grup-Uyesi-3/Grup-Uyesi-3-Gereksinimler.md)
-4. [Grup Üyesi 4'ün Gereksinimleri](Grup-Uyesi-4/Grup-Uyesi-4-Gereksinimler.md)
-5. [Grup Üyesi 5'in Gereksinimleri](Grup-Uyesi-5/Grup-Uyesi-5-Gereksinimler.md)
-6. [Grup Üyesi 6'nın Gereksinimleri](Grup-Uyesi-6/Grup-Uyesi-6-Gereksinimler.md)
+1. [Suleyman'in Gereksinimleri](Ali-Tutar/Ali-Tutar-Gereksinimler.md)
+2. [Umut'un Gereksinimleri](Grup-Uyesi-2/Grup-Uyesi-2-Gereksinimler.md)
+3. [Aykan'in Gereksinimleri](Grup-Uyesi-3/Grup-Uyesi-3-Gereksinimler.md)
