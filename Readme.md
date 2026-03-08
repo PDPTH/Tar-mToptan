@@ -6,7 +6,7 @@
 
 ## Proje Hakkında
 
-![Ürün Tanıtım Görseli](<img width="1536" height="1024" alt="ChatGPT Image 8 Mar 2026 23_11_11" src="https://github.com/user-attachments/assets/4e9c09bd-4d42-4ba8-b959-dff8273eb6e8" />
+![Ürün Tanıtım Görseli](<img width="1536" height="1024" alt="ChatGPT Image 8 Mar 2026 23_11_11" src="https://github.com/user-attachments/assets/7c54fe8c-0c64-40cf-a607-2b5996d8fa6c" />
 )
 
 **Proje Tanımı:**
