@@ -6,7 +6,8 @@
 
 ## Proje Hakkında
 
-![Ürün Tanıtım Görseli](Product.png)
+![Ürün Tanıtım Görseli](<img width="1536" height="1024" alt="ChatGPT Image 8 Mar 2026 23_11_11" src="https://github.com/user-attachments/assets/4e9c09bd-4d42-4ba8-b959-dff8273eb6e8" />
+)
 
 **Proje Tanımı:**
 Tarım ürünleri satışı yapan e-ticaret sitemiz; nohut, pirinç, mercimek, bulgur gibi temel gıda ürünlerini müşterilerimize hızlı, kolay ve güvenilir bir şekilde ulaştırmak için tasarlanmıştır. Geniş ürün yelpazemiz sayesinde kullanıcılarımız ihtiyaç duydukları ürünleri tek bir platform üzerinden rahatça bulabilir, ürün detaylarını inceleyebilir ve güvenli ödeme adımlarıyla siparişlerini tamamlayabilirler. Kullanıcı dostu arayüzümüz, pratik kategori yapımız ve arama özelliğimiz sayesinde alışveriş süreci zahmetsiz hale gelir. Sipariş sonrası süreçte ise hızlı teslimat seçenekleri ve müşteri memnuniyetine önem veren hizmet anlayışımız ile kaliteli bir deneyim sunmayı hedefliyoruz. Tarım ürünlerinde uygun fiyat, güvenilir hizmet ve kolay alışverişi bir araya getirerek müşterilerimizin beklentilerini en üst seviyede karşılamayı amaçlıyoruz.
