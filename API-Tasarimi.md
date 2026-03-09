@@ -27,7 +27,7 @@ Bu örnek, bir e-ticaret platformu için kullanıcı ve ürün yönetimi API'sin
 
 ## OpenAPI Specification
 
-```yaml
+``yaml
 openapi: 3.0.3
 info:
   title: E-Ticaret API
