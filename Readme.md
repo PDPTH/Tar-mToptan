@@ -31,7 +31,7 @@ USA
 **Ekip Üyeleri:** 
 - Süleyman Buğra Çetin
 - Umut Can Bayar
-- Aykan Bayramov
+- Aykhan Bayramov
 
 
 ---
