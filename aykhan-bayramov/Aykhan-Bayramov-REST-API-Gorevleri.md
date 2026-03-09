@@ -1,4 +1,4 @@
-## 15. Sepete Ürün Ekleme
+## 1. Sepete Ürün Ekleme
 - **Endpoint:** `POST /cart/items`
 - **Request Body:** 
 ```json
@@ -10,19 +10,19 @@
 - **Authentication:** Bearer Token gerekli
 - **Response:** `201 Created` - Ürün sepete başarıyla eklendi
 
-## 16. Sepetten Ürün Çıkarma
+## 2. Sepetten Ürün Çıkarma
 - **Endpoint:** `DELETE /cart/items/{itemId}`
 - **Path Parameters:** 
   - `itemId` (string, required) - Sepet öğesi ID'si
 - **Authentication:** Bearer Token gerekli
 - **Response:** `204 No Content` - Ürün sepetten başarıyla çıkarıldı
 
-## 17. Sepeti Görüntüleme
+## 3. Sepeti Görüntüleme
 - **Endpoint:** `GET /cart`
 - **Authentication:** Bearer Token gerekli
 - **Response:** `200 OK` - Sepet bilgileri başarıyla getirildi
 
-## 18. Sipariş Oluşturma
+## 4. Sipariş Oluşturma
 - **Endpoint:** `POST /orders`
 - **Request Body:** 
 ```json
@@ -35,14 +35,14 @@
 - **Authentication:** Bearer Token gerekli
 - **Response:** `201 Created` - Sipariş başarıyla oluşturuldu
 
-## 19. Sipariş İptal Etme
+## 5. Sipariş İptal Etme
 - **Endpoint:** `DELETE /orders/{orderId}`
 - **Path Parameters:** 
   - `orderId` (string, required) - Sipariş ID'si
 - **Authentication:** Bearer Token gerekli
 - **Response:** `200 OK` - Sipariş başarıyla iptal edildi
 
-## 20. Teslimat Adresi Ekleme
+## 6. Teslimat Adresi Ekleme
 - **Endpoint:** `POST /addresses`
 - **Request Body:** 
 ```json
@@ -59,7 +59,7 @@
 - **Authentication:** Bearer Token gerekli
 - **Response:** `201 Created` - Teslimat adresi başarıyla eklendi
 
-## 21. Teslimat Adresi Güncelleme
+## 7. Teslimat Adresi Güncelleme
 - **Endpoint:** `PUT /addresses/{addressId}`
 - **Path Parameters:** 
   - `addressId` (string, required) - Adres ID'si
@@ -77,3 +77,4 @@
 ```
 - **Authentication:** Bearer Token gerekli
 - **Response:** `200 OK` - Teslimat adresi başarıyla güncellendi
+
