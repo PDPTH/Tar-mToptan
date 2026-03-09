@@ -1,5 +1,5 @@
 # Umut'un REST API Metotları
-## 8. Ürün Ekleme
+## 1. Ürün Ekleme
 - **Endpoint:** `POST /products`
 - **Request Body:** 
 ```json
@@ -15,7 +15,7 @@
 - **Authentication:** Bearer Token gerekli
 - **Response:** `201 Created` - Ürün başarıyla eklendi
 
-## 9. Ürün Bilgilerini Güncelleme
+## 2. Ürün Bilgilerini Güncelleme
 - **Endpoint:** `PUT /products/{productId}`
 - **Path Parameters:** 
   - `productId` (string, required) - Ürün ID'si
@@ -30,14 +30,14 @@
 - **Authentication:** Bearer Token gerekli
 - **Response:** `200 OK` - Ürün bilgileri başarıyla güncellendi
 
-## 10. Ürün Yayından Kaldırma
+## 3. Ürün Yayından Kaldırma
 - **Endpoint:** `DELETE /products/{productId}`
 - **Path Parameters:** 
   - `productId` (string, required) - Ürün ID'si
 - **Authentication:** Bearer Token gerekli
 - **Response:** `204 No Content` - Ürün başarıyla yayından kaldırıldı
 
-## 11. Ürünleri Listeleme
+## 4. Ürünleri Listeleme
 - **Endpoint:** `GET /products`
 - **Query Parameters:** 
   - `page` (integer, optional) - Sayfa numarası
@@ -46,13 +46,13 @@
   - `producerId` (string, optional) - Üretici filtresi
 - **Response:** `200 OK` - Ürün listesi başarıyla getirildi
 
-## 12. Ürün Detayını Görüntüleme
+## 5. Ürün Detayını Görüntüleme
 - **Endpoint:** `GET /products/{productId}`
 - **Path Parameters:** 
   - `productId` (string, required) - Ürün ID'si
 - **Response:** `200 OK` - Ürün detayları başarıyla getirildi
 
-## 13. Ürün Stok Miktarını Güncelleme
+## 6. Ürün Stok Miktarını Güncelleme
 - **Endpoint:** `PATCH /products/{productId}/stock`
 - **Path Parameters:** 
   - `productId` (string, required) - Ürün ID'si
@@ -65,7 +65,7 @@
 - **Authentication:** Bearer Token gerekli
 - **Response:** `200 OK` - Ürün stok miktarı başarıyla güncellendi
 
-## 14. Ürün Değerlendirmesi Yapma
+## 7. Ürün Değerlendirmesi Yapma
 - **Endpoint:** `POST /products/{productId}/reviews`
 - **Path Parameters:** 
   - `productId` (string, required) - Ürün ID'si
@@ -78,4 +78,5 @@
 ```
 - **Authentication:** Bearer Token gerekli
 - **Response:** `201 Created` - Ürün değerlendirmesi başarıyla eklendi
+
 
